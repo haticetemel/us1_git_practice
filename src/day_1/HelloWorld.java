@@ -5,6 +5,8 @@ public class HelloWorld {
 
         System.out.println("Good old days");
 
+        //some work here for day_1
+
 
     }
 }
